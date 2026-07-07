@@ -32,9 +32,7 @@
 
 Вы можете использовать кнопку ниже, предварительно заменив ссылку на ваш созданный репозиторий:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FВАШ_GITHUB_НИК%2FИМЯ_РЕПОЗИТОРИЯ)
-
-*(Не забудьте заменить `ВАШ_GITHUB_НИК` и `ИМЯ_РЕПОЗИТОРИЯ` на ваши реальные данные в URL выше)*
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fnewbizme%2Ffbi-seized-stub)
 
 ---
 
